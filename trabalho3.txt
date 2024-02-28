@@ -24,6 +24,22 @@ Ampla adoção no desenvolvimento front-end web.
 a. Tente fazer um código mínimo em cada uma delas; 
 R.
 
+# Exemplo em Python: Imprimir "Olá, mundo!"
+print("Olá, mundo!")
+
+// Exemplo em Java: Imprimir "Olá, mundo!"
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
+
+// Exemplo em JavaScript: Imprimir "Olá, mundo!"
+
+console.log("Olá, mundo!");
+
 
 b. Tente executar o seu código; 
 R.
