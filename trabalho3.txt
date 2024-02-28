@@ -1,1 +1,9 @@
+1 – Explique as diferenças entre 3 linguagens de programação: 
+a. Tente fazer um código mínimo em cada uma delas; 
+
+b. Tente executar o seu código; 
+
+
+
+
 
