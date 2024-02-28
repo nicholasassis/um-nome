@@ -2,50 +2,25 @@ Parte 3
 
 1 – Explique as diferenças entre 3 linguagens de programação: 
 
-Python:
-
+- Python:
 Sintaxe clara e concisa.
 Interpretada e dinâmica.
 Uso versátil em automação, ciência de dados e IA.
 ------------------------------------------------------------------
-Java:
-
+- Java:
 Orientada a objetos.
 Compilada e plataforma independente (JVM).
 Ênfase em aplicações empresariais e sistemas distribuídos.
 ------------------------------------------------------------------
-JavaScript:
-
-Linguagem de script para web.
-Assíncrona e event-driven.
-Ampla adoção no desenvolvimento front-end web.
+- C++: 
+É uma linguagem de programação de alto desempenho, oferecendo controle detalhado sobre o hardware. É de nível médio, com uma sintaxe complexa, e não possui gerenciamento automático de memória.
 ------------------------------------------------------------------
 
 a. Tente fazer um código mínimo em cada uma delas; 
 R.
 
-# Exemplo em Python: Imprimir "Olá, mundo!"
-print("Olá, mundo!")
-
-// Exemplo em Java: Imprimir "Olá, mundo!"
-
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
-    }
-}
-
-
-// Exemplo em JavaScript: Imprimir "Olá, mundo!"
-
-console.log("Olá, mundo!");
-
 
 b. Tente executar o seu código; 
 R.
-
-
-
-
 
 
