@@ -16,11 +16,36 @@ Compilada e plataforma independente (JVM).
 É uma linguagem de programação de alto desempenho, oferecendo controle detalhado sobre o hardware. É de nível médio, com uma sintaxe complexa, e não possui gerenciamento automático de memória.
 ------------------------------------------------------------------
 
-a. Tente fazer um código mínimo em cada uma delas; 
-R.
+a. Tente fazer um código mínimo em cada uma delas; b. Tente executar o seu código; 
+
+java 
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("viva la vida");
+    }
+}
 
 
-b. Tente executar o seu código; 
-R.
+python
+print('Hello world!')
+
+
+
+C++
+
+#include <iostream>
+
+int main() {
+    std::cout << "eu sou nicholas" << std::endl;
+    return 0;
+}
+
+
 
 
