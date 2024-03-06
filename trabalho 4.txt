@@ -1,0 +1,6 @@
+1 - Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: 
+uma estrutura de repetição; uma estrutura de tomada de decisão. 
+
+2 - Envie seu código e o comprovante de execução para seu repositório no github.
+
+3 - Envie o link do seu repositório
