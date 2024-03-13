@@ -14,7 +14,7 @@ lista = [64, 34, 25, 12, 22, 11, 90]
 bubble_sort(lista)
 print("Lista ordenada pelo Bubble Sort:", lista)
 
-
+https://github.com/nicholasassis/um-nome/blob/4a1e6fdb97b210db6695fcdde401ab938cb6f662/1.png
 
 2 – implemente um algorítimo que imprima apenas as vogais de uma determinada palavra ou frase.
 
@@ -28,4 +28,5 @@ def imprimir_vogais(frase):
 frase_exemplo = "Algoritmo para imprimir vogais"
 imprimir_vogais(frase_exemplo)
 
+https://github.com/nicholasassis/um-nome/blob/4a1e6fdb97b210db6695fcdde401ab938cb6f662/2.png
 
