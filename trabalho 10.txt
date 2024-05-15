@@ -2,7 +2,11 @@ def bombons (dinheiro,preco):
     n_bombons = dinheiro // preco
     troco = dinheiro % preco
     return n_bombons, troco
-    
+
 def a_mais(dinheiro,preco):
-    qtd, troco = bombons(dinheiro, preco)
+    qtd, troco =  bobons(dinheiro, preco)
     return preco - troco
+
+def lista(n)
+    return list(range(2, n+1,2))
+
